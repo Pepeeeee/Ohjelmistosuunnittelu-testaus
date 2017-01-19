@@ -5,7 +5,7 @@ This is my readme.
 
 ## Alaotsikko
 
-![](https://fi.wikipedia.org/wiki/Koira#/media/File:Finnish_Spitz_600.jpg)
+![kate](http://blog.imgur.com/wp-content/uploads/2016/01/OeiRVAS.jpg)
 
 ### Alaotsikko
 
