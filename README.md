@@ -5,7 +5,7 @@ This is my readme.
 
 ## Alaotsikko
 
-![kate](http://blog.imgur.com/wp-content/uploads/2016/01/OeiRVAS.jpg)
+![kate](http://www.steveaoki.com/site/wp-content/uploads/2016/01/boobs-lead-2.jpg)
 
 ### Alaotsikko
 
