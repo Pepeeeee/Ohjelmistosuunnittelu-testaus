@@ -5,12 +5,4 @@ This is my readme.
 
 ## Alaotsikko
 
-lorem
-
-### Alaotsikko 2
-
-ipsum
-
-#### Viimeinen alaotsikko
-
-5/5
+Lorem ipsum
