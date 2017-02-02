@@ -2,7 +2,7 @@
 TTO0100
 
 This is my readme.
-[Wikiin](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki)
+[Wikiin](https://github.com/Pepeeeee/Ohjelmistosuunnittelu-testaus/wiki/Vaatimusm%C3%A4%C3%A4rittelyt)
 
 ![kate](lisää joku kiva linkki)
 
